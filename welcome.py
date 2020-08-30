@@ -4,6 +4,5 @@ def NewScreen():
 def NewButton():
     print("Click")
 
-
 NewScreen()
 NewButton()
